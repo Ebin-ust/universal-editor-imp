@@ -16,7 +16,7 @@
       "cards",
       "columns",
       "fragment",
-      "quote"
+      "teaser"
     ]
   },
   {
@@ -38,6 +38,12 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "teaser",
+    "components": [
+      "teaser"
     ]
   }
 ]
